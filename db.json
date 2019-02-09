@@ -54,7 +54,62 @@
     }
   ],
   "fruits": [
-    {"id": 1, "title": "blueberry", "text": "lorem lala."}
+    {
+      "id": 1,
+      "type": "fruit",
+      "title": "Banana",
+      "url": "https://i5.walmartimages.ca/images/Large/580/6_r/875806_R.jpg",
+      "thumbnailUrl": "https://i5.walmartimages.ca/images/Large/580/6_r/875806_R.jpg",
+      "text": "A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.",
+      "storage": "On the counter.",
+      "temperature": "12-14",
+      "duration": "2-3 days",
+      "durationtext": "Bananene du kjøper på butikken vil ha en holdbarhet på rundt 2-7 dager, dette avhenger av hvor langt i modningsprosessen den har kommet og hva du anser som som den riktige modenheten for bananer.",
+      "fodmap": "Low"
+    },
+    {
+      "id": 2,
+      "category": "fruit",
+      "title": "Apple",
+      "url": "https://res.cloudinary.com/kristerkr/image/upload/w_1000,h_350,c_fill,q_auto:eco//v1533245338/MatBase/eple.jpg",
+      "thumbnailUrl": "https://res.cloudinary.com/kristerkr/image/upload/w_1000,h_350,c_fill,q_auto:eco//v1533245338/MatBase/eple.jpg",
+      "text": "An apple is a sweet, edible fruit produced by an apple tree (Malus pumila).",
+      "storage": "Epler kan oppbevares i kjøleskap og romtemperatur, vi anbefaler kjøleskap da eplene varer en god del lenger der. Ideell lagringstemperatur for eplene er 1 - 2 °C.",
+      "temperature": "1-2",
+      "duration": "6-8 weeks",
+      "durationtext": "Ved lagring i kjøleskap vil epler holde i 6-8 uker. Ved lagring i romtemperatur vil eplene holde seg i 5-7 dager, etter dette kan de tape smak og form.",
+      "fodmap": "High"
+    }
+  ],
+  "berries": [
+    {
+      "id": 1,
+      "type": "berry",
+      "title": "Strawberry",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PerfectStrawberry.jpg/220px-PerfectStrawberry.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PerfectStrawberry.jpg/220px-PerfectStrawberry.jpg",
+      "text": "The garden strawberry is a widely grown hybrid species of the genus Fragaria, collectively known as the strawberries. It is cultivated worldwide for its fruit.",
+      "storage": "In your fridge.",
+      "temperature": "2-4",
+      "duration": "3-7 days",
+      "durationtext": "Strawberries har kort holdbarhet, inntil 1 uke.",
+      "fodmap": "Low"
+    }
+  ],
+  "vegetables": [
+    {
+      "id": 1,
+      "category": "vegetable",
+      "title": "Tomato",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bright_red_tomato_and_cross_section02.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bright_red_tomato_and_cross_section02.jpg",
+      "text": "The tomato (see pronunciation) is the edible, often red, berry of the nightshade Solanum lycopersicum, commonly known as a tomato plant.",
+      "storage": "On the counter.",
+      "temperature": "10-12",
+      "duration": "2-3 days",
+      "durationtext": "Modne tomater har kort holdbarhet, inntil 1 uke.",
+      "fodmap": "Low"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
