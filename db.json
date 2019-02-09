@@ -2,24 +2,24 @@
   "posts": [
     { 
       "id": 1, 
-      "title": "Post 1",
-      "url": "https://via.placeholder.com/600/92c952",
-      "thumbnailUrl": "https://via.placeholder.com/150/92c952",
-      "text": "Lorem ipsum"
+      "title": "Banana",
+      "url": "https://i5.walmartimages.ca/images/Large/580/6_r/875806_R.jpg",
+      "thumbnailUrl": "https://i5.walmartimages.ca/images/Large/580/6_r/875806_R.jpg",
+      "text": "A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa."
     },
     { 
       "id": 2, 
-      "title": "Post 2",
-      "url": "https://via.placeholder.com/600/92c952",
-      "thumbnailUrl": "https://via.placeholder.com/150/92c952",
-      "text": "Lorem ipsum"
+      "title": "Strawberry",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PerfectStrawberry.jpg/220px-PerfectStrawberry.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PerfectStrawberry.jpg/220px-PerfectStrawberry.jpg",
+      "text": "The garden strawberry is a widely grown hybrid species of the genus Fragaria, collectively known as the strawberries. It is cultivated worldwide for its fruit."
     },
     { 
       "id": 3, 
-      "title": "Post 3",
-      "url": "https://via.placeholder.com/600/92c952",
-      "thumbnailUrl": "https://via.placeholder.com/150/92c952",
-      "text": "Lorem ipsum"
+      "title": "Tomato",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bright_red_tomato_and_cross_section02.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bright_red_tomato_and_cross_section02.jpg",
+      "text": "The tomato (see pronunciation) is the edible, often red, berry of the nightshade Solanum lycopersicum, commonly known as a tomato plant."
     }
   ],
   "comments": [
