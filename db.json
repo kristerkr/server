@@ -20,6 +20,7 @@
       "url": "https://via.placeholder.com/600/92c952",
       "thumbnailUrl": "https://via.placeholder.com/150/92c952",
       "text": "Lorem ipsum"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
