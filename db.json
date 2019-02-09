@@ -161,32 +161,6 @@
       "duration": "5-7 days",
       "durationtext": "Ved gode forhold vil paprika holde seg i opptil en uke.",
       "fodmap": "Low"
-    },
-    {
-      "id": 6,
-      "type": "vegetable",
-      "title": "Potato",
-      "url": "https://res.cloudinary.com/kristerkr/image/upload/w_1000,h_350,c_fill,q_auto:eco//v1533245338/MatBase/potet.jpg",
-      "thumbnailUrl": "https://res.cloudinary.com/kristerkr/image/upload/w_1000,h_350,c_fill,q_auto:eco//v1533245338/MatBase/potet.jpg",
-      "text": "The potato is a starchy, tuberous crop from the perennial nightshade Solanum tuberosum. In many contexts, potato refers to the edible tuber, but it can also refer to the plant itself. Common or slang terms include tater, tattie and spud.",
-      "storage": "Poteter bør lagres mørkt og kjølig, helst mellom 4-6 °C. Lagre i kjoleskao eller potetkjeller.",
-      "temperature": "4-6",
-      "duration": "2-3 months",
-      "durationtext": "Lagrer du potetene under gode forhold som f.eks i kjøleskap kan du forvente at de holder god kvalitet i 2-3 mnd.",
-      "fodmap": "Low"
-    },
-    {
-      "id": 7,
-      "type": "vegetable",
-      "title": "Cucumber",
-      "url": "https://res.cloudinary.com/kristerkr/image/upload/w_1000,h_350,c_fill,q_auto:eco//v1533245338/MatBase/agurk.jpg",
-      "thumbnailUrl": "https://res.cloudinary.com/kristerkr/image/upload/w_1000,h_350,c_fill,q_auto:eco//v1533245338/MatBase/agurk.jpg",
-      "text": "Cucumber (Cucumis sativus) is a widely cultivated plant in the gourd family, Cucurbitaceae.",
-      "storage": "Agurk kan oppbevares i romtemperatur, prøv å finn en plass der det er noe kjøligere enn vanlig romtemperatur. For aller best resultat lagre agurk på et kjølerom i 12-14 °C. Agurk bør ikke oppbevares i kjøleskap da den vil få kjøleskader når temperaturen når 8 °C, men man kan prøve å lagre de i grønsakskuffen (rundt 10°C. Vær dog obs på å holde den unna etylengass fra annet frukt og grønt.",
-      "temperature": "12-14",
-      "duration": "1 week",
-      "durationtext": "En hel agurk vil ha en holdbarhet i opptil en uke.",
-      "fodmap": "Low"
     }
   ]
 }
