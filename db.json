@@ -148,19 +148,6 @@
       "duration": "1-3 days",
       "durationtext": "Mais har kort holdbarhet, 1-3 dager.",
       "fodmap": "Medium"
-    },
-    {
-      "id": 5,
-      "type": "vegetable",
-      "title": "Bell pepper",
-      "url": "https://res.cloudinary.com/kristerkr/image/upload/w_1000,h_350,c_fill,q_auto:eco//v1533245338/MatBase/paprika.jpg",
-      "thumbnailUrl": "https://res.cloudinary.com/kristerkr/image/upload/w_1000,h_350,c_fill,q_auto:eco//v1533245338/MatBase/paprika.jpg",
-      "text": "The bell pepper is a cultivar group of the species Capsicum annuum. Cultivars of the plant produce fruits in different colours, including red, yellow, orange, green, white, and purple. Bell peppers are sometimes grouped with less pungent pepper varieties as sweet peppers.",
-      "storage": "Paprika bør lagres i plast i rundt 8 - 10° C. Vi anbefaler grønnsaksskuffen i kjøleskapet.",
-      "temperature": "8-10",
-      "duration": "5-7 days",
-      "durationtext": "Ved gode forhold vil paprika holde seg i opptil en uke.",
-      "fodmap": "Low"
     }
   ]
 }
